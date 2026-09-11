@@ -9,5 +9,8 @@
 ## 2. Machine Learning Foundations
 
 ### 2.1 Introduction to Machine Learning
+### 2.2 Supervised Learning - Regression
+
+
 
 
