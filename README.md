@@ -11,6 +11,8 @@
 ### 2.1 Introduction to Machine Learning
 ### 2.2 Supervised Learning - Regression
 ### 2.3 Supervised Learning - Classification
+### 2.4 Unsupervised Learning
+
 
 
 
