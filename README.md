@@ -47,5 +47,6 @@
 ### 7.1 Language Intro
 ### 7.2 Speech Intro
 ### 7.3 Vision Intro
+### 7.4 Document Understanding
 
 
