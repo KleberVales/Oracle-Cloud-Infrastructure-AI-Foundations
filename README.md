@@ -14,6 +14,7 @@
 ### 2.4 Unsupervised Learning
 ### 2.5 Reinforcement Learning
 
+## 3.3 Deep Learning Foundations
 
 
 
