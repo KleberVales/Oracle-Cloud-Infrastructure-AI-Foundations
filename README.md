@@ -42,19 +42,6 @@
 ### 6.2 Vector Search
 ### 6.3 Select AI
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 7. OCI AI Services
 
 
