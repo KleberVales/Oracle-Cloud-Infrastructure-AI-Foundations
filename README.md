@@ -36,6 +36,10 @@
 ### 5.4 GPUs and Superclusters in OCI
 ### 5.5 Responsible AI
 
+## 6. OCI Generative AI Service
+
+
+
 
 
 
