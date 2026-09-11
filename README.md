@@ -40,6 +40,7 @@
 
 ### 6.1 OCI Generative AI
 ### 6.2 Vector Search
+### 6.3 Select AI
 
 
 
