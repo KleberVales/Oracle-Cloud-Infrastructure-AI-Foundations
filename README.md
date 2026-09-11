@@ -17,6 +17,8 @@
 ## 3. Deep Learning Foundations
 
 ### 3.1 Introduction to Deep Learning
+### 3.2 Deep Learning Models-Sequence Models
+
 
 
 
