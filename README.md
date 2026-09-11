@@ -1,1 +1,2 @@
-# Oracle-Cloud-Infrastructure-AI-Foundations
+# AI Foundations Associate
+
